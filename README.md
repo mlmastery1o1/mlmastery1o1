@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mlmastery1o1
+- 👋 Hi, I’m Jayant Choudhary __ @mlmastery1o1
 - 👀 I’m interested in Robotics, Machine Learing and AR
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Robotics and ML projects.
